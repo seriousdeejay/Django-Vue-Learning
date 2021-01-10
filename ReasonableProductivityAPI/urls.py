@@ -19,6 +19,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),  # Use Django-Admin-Honeypot
+    path('users/', include('users.urls')),
     path('tasks/', include('tasks.urls')),
     path('lists/', include('lists.urls')),
 ]
