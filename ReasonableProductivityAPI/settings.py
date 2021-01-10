@@ -38,8 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'task.apps.TaskConfig',
+    'tasks.apps.TaskConfig',
     'users.apps.UsersConfig',
+    'lists.apps.ListsConfig',
+    'utils.apps.UtilsConfig',
 ]
 
 MIDDLEWARE = [
@@ -51,6 +53,8 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+AUTH_USER_MODEL = 'users.User'
 
 ROOT_URLCONF = 'ReasonableProductivityAPI.urls'
 
