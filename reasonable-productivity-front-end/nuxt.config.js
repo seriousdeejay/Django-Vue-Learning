@@ -6,8 +6,8 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - productivity-front-end',
-    title: 'productivity-front-end',
+    titleTemplate: '%s - reasonable-productivity-frontend',
+    title: 'reasonable-productivity-frontend',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
