@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="833b922f-fabc-43fe-9620-a2e27cb31dd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reasonable-productivity-backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mvQiLpdCydmj4R5i60uWxSVlG8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,13 +37,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1417" y="-1098" key="SettingsEditor" timestamp="1610375916095">
+    <state x="1696" y="-986" key="FileChooserDialogImpl" timestamp="1610387066832">
       <screen x="-732" y="-1440" width="3440" height="1400" />
     </state>
-    <state x="1417" y="-1098" key="SettingsEditor/0.0.1920.1040/-732.-1440.3440.1400@-732.-1440.3440.1400" timestamp="1610375916095" />
-    <state x="1612" y="-916" key="com.intellij.ide.util.TipDialog" timestamp="1610376688662">
+    <state x="1696" y="-986" key="FileChooserDialogImpl/0.0.1920.1040/-732.-1440.3440.1400@-732.-1440.3440.1400" timestamp="1610387066832" />
+    <state x="1417" y="-1098" key="SettingsEditor" timestamp="1610387107265">
       <screen x="-732" y="-1440" width="3440" height="1400" />
     </state>
-    <state x="1612" y="-916" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-732.-1440.3440.1400@-732.-1440.3440.1400" timestamp="1610376688662" />
+    <state x="1417" y="-1098" key="SettingsEditor/0.0.1920.1040/-732.-1440.3440.1400@-732.-1440.3440.1400" timestamp="1610387107265" />
+    <state x="1612" y="-916" key="com.intellij.ide.util.TipDialog" timestamp="1610386681184">
+      <screen x="-732" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1612" y="-916" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-732.-1440.3440.1400@-732.-1440.3440.1400" timestamp="1610386681184" />
   </component>
 </project>
