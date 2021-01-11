@@ -12,3 +12,11 @@ class List(Timestamps, models.Model):
 
 	def __str__(self):
 		return self.name
+
+
+class ListItem(Timestamps, models.Model):
+	parent_list = models.ForeignKey(List, on_delete=models.CASCADE)
+	text = models.CharField(max_length=255)
+
+	def __str__(self):
+		return self.text
